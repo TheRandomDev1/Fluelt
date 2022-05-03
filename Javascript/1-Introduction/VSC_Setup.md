@@ -1,1 +1,1 @@
-# ![Visual Studio Code Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Visual_Studio_Code_1.29.svg/1200px-Visual_Studio_Code_1.29.svg.png)
+# ![Visual Studio Code Logo](/Images/Visual_Studio_Code_1.35_icon.svg.png)
