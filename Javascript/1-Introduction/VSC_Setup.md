@@ -1,1 +1,1 @@
-# ![Visual Studio Code Logo](/Images/Visual_Studio_Code_1.35_icon.svg.png)
+# ![Visual Studio Code Logo](/Images/Visual_Studio_Code_1.35_icon.svg%20(1).png)
