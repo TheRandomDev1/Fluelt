@@ -20,3 +20,9 @@ Output:
 Hello, world!
 ```
 We will learn more about Javascript in future lessons...
+
+## Now let's do it ourselves.
+
+First open the file that we setupped on lesson [Visual Studio Code]()
+
+
