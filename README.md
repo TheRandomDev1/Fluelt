@@ -6,6 +6,6 @@ How to contribute: [Contributing](https://github.com/LukaH0/Fluelt/blob/main/CON
 
 ## Main contributors
 
-- [@LukaH0](https://github.com/LukaH0)
+- LukaH0
 
 [Discord Community](https://discord.gg/ZvVxNHVXjJ)
