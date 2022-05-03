@@ -30,6 +30,6 @@ First open the file that we setupped on lesson [Visual Studio Code]()
 
 Contributors to this lesson:
 
-- [LukaH0](https://github.com/LukaH0).
+- [LukaH0](https://github.com/LukaH0). (Luka Hietala)
 
 
