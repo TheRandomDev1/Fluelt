@@ -23,6 +23,8 @@ We will learn more about Javascript in future lessons...
 
 ## Now let's do it ourselves.
 
+![](/Images/ConsoleLogExaple.png)
+
 First open the file that we setupped on lesson [Visual Studio Code]()
 
 
