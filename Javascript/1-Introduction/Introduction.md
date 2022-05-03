@@ -28,3 +28,8 @@ We will learn more about Javascript in future lessons...
 First open the file that we setupped on lesson [Visual Studio Code]()
 
 
+Contributors to this lesson:
+
+- [LukaH0](https://github.com/LukaH0).
+
+
