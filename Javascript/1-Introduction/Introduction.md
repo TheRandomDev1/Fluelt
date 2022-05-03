@@ -1,3 +1,5 @@
+# Introduction with `console.log()` method.
+
 We're starting things off by doing the same things that almost every single tutorial does. Starting with a simple console log message.
 > If you need it, here is a document showing how to setup Visual Studio Code (VSC) for Javascript: [Visual Studio Code]()
 
@@ -18,3 +20,9 @@ Output:
 Hello, world!
 ```
 We will learn more about Javascript in future lessons...
+
+## Now let's do it ourselves.
+
+First open the file that we setupped on lesson [Visual Studio Code]()
+
+
