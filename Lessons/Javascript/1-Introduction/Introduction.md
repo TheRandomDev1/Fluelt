@@ -1,5 +1,9 @@
 # Introduction with `console.log()` method.
 
+Congrats!
+
+You have made this far, now is time to start the actual programming with the Javascript programming language. Let's hop right in!
+
 We're starting things off by doing the same things that almost every single tutorial does. Starting with a simple console log message.
 > If you need it, here is a document showing how to setup Visual Studio Code (VSC) for Javascript: [Visual Studio Code]()
 
