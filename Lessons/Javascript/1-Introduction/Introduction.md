@@ -33,7 +33,7 @@ First open the file that we setupped on lesson [Visual Studio Code]()
 
 Now only thing that we have to do is run the code on our integrated terminal in this case, Visual Studio Code.
 
-![](/images/TerminalBashExaple.png)
+![](/Images/TerminalBashExaple.png)
 
 Or if you're using Windows Powershell do the same command.
 
