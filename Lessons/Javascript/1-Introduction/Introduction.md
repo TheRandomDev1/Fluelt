@@ -35,7 +35,7 @@ Now only thing that we have to do is run the code on our integrated terminal in 
 
 ![](/Images/TerminalBashExaple.png)
 
-Or if you're using Windows Powershell do the same command.
+Or if you're using Windows Powershell, you can do the same command.
 
 ![](/Images/TerminalPowershellExaple.png)
 
